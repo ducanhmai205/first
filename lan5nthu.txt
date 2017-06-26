@@ -1,12 +1,7 @@
 ị thay đổi trong thư mục làm việc nhưng chưa được "staged". Để làm việc này, bạn chạy lệnh git add (đó là một câu lệnh đa chức năng - bạn có thể dùng nó để bắt đầu theo dõi tập tin, tổ chức tập tin, hoặc các việc khác như đánh dấu đã giải quyết xong các tập tin có nội dung mâu thuẫn nhau khi tích hợp). Chạy git add để "stage" tập tin benchmarks.rb và sau đó chạy lại lệnh git status:
 
 $ git add benchmarks.rb
-$ git status
-# On branch master
-# Changes to be committed:
-#   (use "git reset HEAD <file>..." to unstage)
-#
-#   new file:   README
+
 #   modified:   benchmarks.rb
 #
 

@@ -1,0 +1,9 @@
+ó thể bạn sẽ thấy mỗi khi push lên Github thì nó hiển thị ra thông báo quá dài dòng, bạn có thể cho ẩn các thông báo đi mà chỉ hiển thị dòng khai báo username và password trên Github thì có thể thiết lập với lệnh này.
+
+git config --global push.default simple
+
+Tuy nhiên nếu bạn không thích bị hỏi mật khẩu nữa thì có thể sử dụng SSH với Github, mình sẽ nói cái này sau.
+Lời kết
+
+Bây giờ bạn đã biết cách tạo một repository cho Git rồi chứ? Thật đơn giản phải không nào, bây giờ để tiếp tục các bài sau dễ dàng hơn, hãy thực hành tạo một reposity trên máy tính và tập commit, hoặc bạn có thể sử dụng Github để tập đưa mã nguồn của mình vào kho chứa cho thuần thục nhé.
+
